@@ -453,7 +453,7 @@
         // the date my career started (change to yours)
         careerStartDate: 2010,
         // the date copyright started (change to yours)
-        copyrightStartDate: 2021,
+        copyrightStartDate: 1983,
         // for the template theme
         appTheme: 'light_theme',
         savedTheme: null,
