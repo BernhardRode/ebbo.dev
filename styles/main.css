@@ -1748,11 +1748,12 @@ header .logo h1 {
 html[dir=ltr] header .logo h1 {
   font-weight: normal;
 }
-header .logo h1:after {
+header .logo h1 span{
   content: "";
   display: inline-block;
   height: 0.17em;
   width: 0.2em;
+  margin:0 2px;
   background-color: hsl(var(--main-color-one));
 }
 html[dir=ltr] header .logo h1:after {
@@ -2566,11 +2567,12 @@ html[dir=ltr] footer .logo h1 {
     margin-right: auto;
   }
 }
-footer .logo h1:after {
+footer .logo h1 span {
   content: "";
   display: inline-block;
   height: 0.17em;
   width: 0.2em;
+  margin: 0 2px;
   background-color: hsl(var(--main-color-one));
 }
 html[dir=ltr] footer .logo h1:after {
