@@ -1,0 +1,15 @@
+#!/bin/sh
+
+curl -O "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFc-K.woff2"
+curl -O "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFc-K.woff2"
+curl -O "https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2"
+curl -O "https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2"
+curl -O "https://fonts.gstatic.com/s/sairastencilone/v16/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsEYQmv2Q.woff2"
+curl -O "https://fonts.gstatic.com/s/sairastencilone/v16/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsFYQmv2Q.woff2"
+curl -O "https://fonts.gstatic.com/s/sairastencilone/v16/SLXSc03I6HkvZGJ1GvvipLoYSTEL9DsLYQk.woff2"
